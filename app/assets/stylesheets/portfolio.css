@@ -1,0 +1,17 @@
+.banner {
+  height: 500px;
+  width:  100%;
+}
+
+.banner img {
+  height: 400px;
+}
+
+
+.supporting .col-md-4 {
+  height: 200px;
+}
+
+.supporting .col-md-4 img{
+  height: 200px;
+}
